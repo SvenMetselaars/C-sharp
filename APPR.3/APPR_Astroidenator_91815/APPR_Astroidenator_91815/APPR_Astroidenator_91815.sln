@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APPR_Astroidenator_91815", "APPR_Astroidenator_91815\APPR_Astroidenator_91815.csproj", "{CDFC50E8-4B53-411A-BD2C-7417C1874B7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDFC50E8-4B53-411A-BD2C-7417C1874B7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDFC50E8-4B53-411A-BD2C-7417C1874B7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDFC50E8-4B53-411A-BD2C-7417C1874B7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDFC50E8-4B53-411A-BD2C-7417C1874B7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF210257-6B1C-4595-9DCA-D6498C735767}
+	EndGlobalSection
+EndGlobal
